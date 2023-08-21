@@ -3,7 +3,6 @@
 🚀 "Challenge the odds, harness the opportunity." - Inspired by Elon Musk
 
 👨‍💻 Backend Dev | Product Enthusiast
-
 Welcome to my GitHub world, where I decode complexities and transform challenges into possibilities. Just as Elon Musk advises, I'm all about taking the bold route even when odds seem stacked.
 
 🌱 Exploring Horizons:
