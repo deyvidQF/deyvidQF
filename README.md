@@ -8,3 +8,5 @@ Welcome to my GitHub world, where I decode complexities and transform challenges
 
 🌱 Exploring Horizons:
 Beyond coding, I embark on the adventure of understanding products and their landscapes. It's through exploration that we uncover new dimensions.
+
+Credits: ChatGPT
